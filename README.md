@@ -1,4 +1,4 @@
-# Artificial-Neural-Network----predicting-Layality
+# Artificial-Neural-Network----predicting-Loyality
 Creating an Artificial Neural Network with Keras.    
 The 'Churn_Modelling.csv' is our dataset file.  
 This file contains the data about 10,000 customers of a Bank and thier respective details about them.  
